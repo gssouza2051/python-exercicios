@@ -1,2 +1,2 @@
-# teste de repositório curso em video
- respositório de teste aprendido na aula
+#  repositório curso em video python
+ primeiro repositório para curso de python
